@@ -109,6 +109,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+caso.csv
+caso.csv.gz
 
 # Spyder project settings
 .spyderproject
